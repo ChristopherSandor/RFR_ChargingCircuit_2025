@@ -1,2 +1,0 @@
-hooray!! 
-#womeninstem
