@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=12V Pin=D5-2
+Removed Pin From Net: NetName=Jumpstart Pin=SPDT1-1
+Removed Pin From Net: NetName=12V Pin=SPDT1-2
+Removed Pin From Net: NetName=CP (Control Pilot) Pin=SPDT1-5
+Removed Pin From Net: NetName=CP (Control Pilot) Pin=SPDT1-6
+Removed Pin From Net: NetName=COIL_2 Pin=SPDT1-9
+Removed Pin From Net: NetName=BMS CP Control Pin=SPDT1-10
+Removed Member From Class: ClassName=Charging Member=SPDT1
+Added Component: Designator=D6(DIOD-DO-41-P-2_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://diodes.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://diodes.com/datasheets/ds28002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CT (pF)"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 8-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Average Rectified Current IO (A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. IFSM (A)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. IR (uA)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range (degC)"; Value = "-65 to 150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial Lead, Body 4.635 x 2.36 mm, Lead Spread 25.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41-P-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4001-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VF (V)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM (V)"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=K4(G5LE1A4DC12)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/ds/2/307/en-g5le-1131193.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G5LE-1A4-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-G5LE-1A4-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/G5LE-1A4-DC12?qs=nNiD76Ca0%252BsAm%252BFuu13aHg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=K5(G5V1DC12)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "G5V-1-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/g5v-1-dc12/omron?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/G5V-1-DC12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G5V-1-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-G5V-1-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/G5V-1-DC12?qs=nNiD76Ca0%252BuMuQOpoevaxA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=K6(G5V1DC12)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "G5V-1-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/g5v-1-dc12/omron?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/G5V-1-DC12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G5V-1-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-G5V-1-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/G5V-1-DC12?qs=nNiD76Ca0%252BuMuQOpoevaxA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PE (GND) Pin=D6-1
+Added Pin To Net: NetName=Switch Out Pin=D6-2
+Added Pin To Net: NetName=12V Pin=K2-6
+Added Pin To Net: NetName=12V Pin=K4-1
+Added Pin To Net: NetName=PE (GND) Pin=K4-2
+Added Pin To Net: NetName=Switch Out Pin=K4-5
+Added Pin To Net: NetName=Discharge Enable Pin=K5-2
+Added Pin To Net: NetName=12V Pin=K5-5
+Added Pin To Net: NetName=Discharge Enable Pin=K5-6
+Added Pin To Net: NetName=Discharge Enable LED Pin=K5-10
+Added Pin To Net: NetName=Jumpstart Pin=K6-1
+Added Pin To Net: NetName=12V Pin=K6-2
+Added Pin To Net: NetName=CP (Control Pilot) Pin=K6-5
+Added Pin To Net: NetName=CP (Control Pilot) Pin=K6-6
+Added Pin To Net: NetName=COIL_2 Pin=K6-9
+Added Pin To Net: NetName=BMS CP Control Pin=K6-10
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=K4-3
+Added Pin To Net: NetName=NetD5_2 Pin=K5-9
+Added Net: Name=NetD5_2
+Added Member To Class: ClassName=Charging Member=Component D6 1N4001-T
+Added Member To Class: ClassName=Charging Member=Component K4 G5LE-1A4-DC12
+Added Member To Class: ClassName=Charging Member=Component K5 G5V-1-DC12
+Added Member To Class: ClassName=Charging Member=Component K6 G5V-1-DC12
